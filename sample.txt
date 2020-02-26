@@ -1,1 +1,6 @@
+
 editing the code.adding some text here.This is sirisha.This is my simple file.
+=======
+adding some text here.This is sirisha.This is my simple file.
+This is new line
+>>>>>>> 76d37dba99d3af8361049d300c424e95d3e8ec9b
